@@ -1,2 +1,0 @@
-vi=int(input("enter your values"))
-print("this is your value",vi)
